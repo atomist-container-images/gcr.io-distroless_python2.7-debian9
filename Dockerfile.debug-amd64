@@ -1,2 +1,2 @@
-# Tags: debug-amd64
+# Tags:  debug-amd64
 FROM gcr.io/distroless/python2.7-debian9:debug-amd64
