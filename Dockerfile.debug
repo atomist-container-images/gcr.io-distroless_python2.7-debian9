@@ -1,2 +1,0 @@
-# Tags:  debug
-FROM gcr.io/distroless/python2.7-debian9:debug
